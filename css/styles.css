@@ -205,11 +205,11 @@ label {
   font-weight: 300;
 }
 
-/*::-webkit-input-placeholder {
+::-webkit-input-placeholder {
   color: #777777;
 }
 
-::-moz-placeholder {
+/*::-moz-placeholder {
   color: #777777;
 }
 
