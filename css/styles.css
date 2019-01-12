@@ -50,13 +50,13 @@ input {
   overflow: hidden;
 }
 
-/*.expiry-input-group input {
+.expiry-input-group input {
   display: inline;
   margin-right: 20px;
   text-align: center;
 }
 
-.input-group-two .input-group {
+/*.input-group-two .input-group {
   float: left;
   width: 42%;
 }
