@@ -77,11 +77,11 @@ input {
   width: 58%;
 }
 
-/*.input-group-two.card-number input {
+.input-group-two.card-number input {
   width: 80%;
 }
 
-.card {
+/*.card {
   display: flex;
   flex-wrap: wrap;
   max-width: 960px;
