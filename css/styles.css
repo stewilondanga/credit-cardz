@@ -69,11 +69,11 @@ input {
   width: 18px;
 }
 
-/*.input-group.cvc {
+.input-group.cvc {
   max-width: 22px;
 }
 
-.input-group.expiry {
+/*.input-group.expiry {
   width: 58%;
 }
 
