@@ -107,14 +107,14 @@ input {
   margin-top: 20px;
 }
 
-/*.order-title,
+.order-title,
 .order-total-label {
   text-transform: uppercase;
   float: left;
   margin-left: 20px;
 }
 
-.order-number,
+/*.order-number,
 .order-total-price {
   float: right;
   margin-right: 20px;
