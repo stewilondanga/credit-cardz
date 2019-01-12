@@ -195,7 +195,7 @@ input {
   float: right;
 }
 
-/*label {
+label {
   font-size: 14px;
   color: white;
   text-transform: uppercase;
@@ -205,7 +205,7 @@ input {
   font-weight: 300;
 }
 
-::-webkit-input-placeholder {
+/*::-webkit-input-placeholder {
   color: #777777;
 }
 
