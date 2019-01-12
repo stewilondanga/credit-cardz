@@ -170,14 +170,14 @@ input {
   padding-left: 15px;
 }
 
-/*.product-price {
+.product-price {
   float: right;
   margin-right: 30px;
   font-size: 12px;
   font-weight: 400;
 }
 
-.product-price::first-letter {
+/*.product-price::first-letter {
   font-size: 10px;
 }
 
