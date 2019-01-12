@@ -221,7 +221,7 @@ label {
   color: #777777;
 }
 
-/*.pay {
+.pay {
   position: absolute;
   background: #FFED0C;
   bottom: 20px;
@@ -234,7 +234,7 @@ label {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 720px) {
+/*@media screen and (max-width: 720px) {
   .card {
     border-radius: 0;
   }
