@@ -81,7 +81,7 @@ input {
   width: 80%;
 }
 
-/*.card {
+.card {
   display: flex;
   flex-wrap: wrap;
   max-width: 960px;
@@ -91,7 +91,7 @@ input {
   border-radius: 34px;
 }
 
-.order {
+/*.order {
   float: left;
   position: relative;
   background: white;
