@@ -102,12 +102,12 @@ input {
   overflow: hidden;
 }
 
-/*.order-title,
+.order-title,
 .order-number {
   margin-top: 20px;
 }
 
-.order-title,
+/*.order-title,
 .order-total-label {
   text-transform: uppercase;
   float: left;
