@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,250 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3A3636;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: scale(0.6);
+  transform-origin: top;
+}
+
+form {
+  position: relative;
+  top: -50px;
+  left: 50px;
+  overflow: hidden;
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  max-width: 332px;
+  margin-top: 20px;
+  padding: 15px 12px;
+  border-radius: 6px;
+  border: 1px solid #3C3C3C;
+  background: #101010;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.61px;
+}
+
+.input-group-two {
+  overflow: hidden;
+}
+
+.expiry-input-group input {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.input-group-two .input-group {
+  float: left;
+  width: 42%;
+}
+
+.input-group-two input {
+  width: 55%;
+}
+
+.input-group-two .expiry-input-group input {
+  width: 18px;
+}
+
+.input-group.cvc {
+  max-width: 22px;
+}
+
+.input-group.expiry {
+  width: 58%;
+}
+
+.input-group-two.card-number input {
+  width: 80%;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 960px;
+  height: 512px;
+  background: radial-gradient(#171717, #0A0A0A);
+  margin: 80px auto;
+  border-radius: 34px;
+}
+
+.order {
+  float: left;
+  position: relative;
+  background: white;
+  width: 30%;
+  height: 100%;
+  border-top-left-radius: 34px;
+  border-bottom-left-radius: 34px;
+  overflow: hidden;
+}
+
+.order-title,
+.order-number {
+  margin-top: 20px;
+}
+
+.order-title,
+.order-total-label {
+  text-transform: uppercase;
+  float: left;
+  margin-left: 20px;
+}
+
+.order-number,
+.order-total-price {
+  float: right;
+  margin-right: 20px;
+}
+
+.order-header {
+  overflow: hidden;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  padding-bottom: 15px;
+}
+
+.order-title {
+  font-size: 12px;
+}
+
+.order-number {
+  font-size: 14px;
+}
+
+.order-total-price {
+  font-size: 18px;
+}
+
+.order-total {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 60px;
+  line-height: 60px;
+  background: yellow;
+  border-bottom-left-radius: 34px;
+  box-shadow: 0 -5px 24px 0 rgba(147, 147, 147, 0.5);
+}
+
+.product img {
+  max-width: 87px;
+  float: left;
+}
+
+.product {
+  width: 100%;
+  float: left;
+  padding: 11.1px;
+  margin: 3px 0;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.product-description {
+  float: left;
+  font-size: 12.5px;
+  max-width: 130px;
+  padding-left: 15px;
+}
+
+.product-price {
+  float: right;
+  margin-right: 30px;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.product-price::first-letter {
+  font-size: 10px;
+}
+
+.details {
+  position: relative;
+  float: left;
+  width: 70%;
+  height: 100%;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.payment-method-logo {
+  max-width: 158px;
+  float: right;
+}
+
+label {
+  font-size: 14px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.61px;
+  margin-top: 40px;
+  display: block;
+  font-weight: 300;
+}
+
+::-webkit-input-placeholder {
+  color: #777777;
+}
+
+::-moz-placeholder {
+  color: #777777;
+}
+
+:-ms-input-placeholder {
+  color: #777777;
+}
+
+:-moz-placeholder {
+  color: #777777;
+}
+
+.pay {
+  position: absolute;
+  background: #FFED0C;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 66px;
+  border: 0;
+  padding: 20px 44px;
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 720px) {
+  .card {
+    border-radius: 0;
+  }
+
+  .order {
+    border-radius: 0;
+    width: 100%;
+    float: right;
+  }
+
+  .details {
+    border-radius: 0;
+    width: 100%;
+    order: -1;
+  }
+
+  form {
+    width: 100%;
+    display: block;
+  }
 }
 
 .containers {
