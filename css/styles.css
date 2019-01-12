@@ -234,7 +234,7 @@ label {
   text-transform: uppercase;
 }
 
-/*@media screen and (max-width: 720px) {
+@media screen and (max-width: 720px) {
   .card {
     border-radius: 0;
   }
@@ -257,7 +257,7 @@ label {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
