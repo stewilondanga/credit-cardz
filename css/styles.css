@@ -120,13 +120,13 @@ input {
   margin-right: 20px;
 }
 
-/*.order-header {
+.order-header {
   overflow: hidden;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
   padding-bottom: 15px;
 }
 
-.order-title {
+/*.order-title {
   font-size: 12px;
 }
 
