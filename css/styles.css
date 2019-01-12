@@ -217,11 +217,11 @@ label {
   color: #777777;
 }
 
-/*:-moz-placeholder {
+:-moz-placeholder {
   color: #777777;
 }
 
-.pay {
+/*.pay {
   position: absolute;
   background: #FFED0C;
   bottom: 20px;
