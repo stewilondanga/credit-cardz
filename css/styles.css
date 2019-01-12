@@ -114,13 +114,13 @@ input {
   margin-left: 20px;
 }
 
-/*.order-number,
+.order-number,
 .order-total-price {
   float: right;
   margin-right: 20px;
 }
 
-.order-header {
+/*.order-header {
   overflow: hidden;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
   padding-bottom: 15px;
