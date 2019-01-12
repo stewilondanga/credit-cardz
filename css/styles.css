@@ -61,11 +61,11 @@ input {
   width: 42%;
 }
 
-/*.input-group-two input {
+.input-group-two input {
   width: 55%;
 }
 
-.input-group-two .expiry-input-group input {
+/*.input-group-two .expiry-input-group input {
   width: 18px;
 }
 
