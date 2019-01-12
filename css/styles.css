@@ -163,14 +163,14 @@ input {
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
 
-/*.product-description {
+.product-description {
   float: left;
   font-size: 12.5px;
   max-width: 130px;
   padding-left: 15px;
 }
 
-.product-price {
+/*.product-price {
   float: right;
   margin-right: 30px;
   font-size: 12px;
