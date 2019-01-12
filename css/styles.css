@@ -91,7 +91,7 @@ input {
   border-radius: 34px;
 }
 
-/*.order {
+.order {
   float: left;
   position: relative;
   background: white;
@@ -102,7 +102,7 @@ input {
   overflow: hidden;
 }
 
-.order-title,
+/*.order-title,
 .order-number {
   margin-top: 20px;
 }
