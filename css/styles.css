@@ -134,11 +134,11 @@ input {
   font-size: 14px;
 }
 
-/*.order-total-price {
+.order-total-price {
   font-size: 18px;
 }
 
-.order-total {
+/*.order-total {
   position: absolute;
   bottom: 0;
   width: 100%;
