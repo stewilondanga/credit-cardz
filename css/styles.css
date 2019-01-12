@@ -33,7 +33,6 @@ form {
   width: 100%;
 }
 
-/*
 input {
   width: 100%;
   max-width: 332px;
@@ -47,7 +46,7 @@ input {
   letter-spacing: 0.61px;
 }
 
-.input-group-two {
+/*.input-group-two {
   overflow: hidden;
 }
 
