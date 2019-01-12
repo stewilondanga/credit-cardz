@@ -46,11 +46,11 @@ input {
   letter-spacing: 0.61px;
 }
 
-/*.input-group-two {
+.input-group-two {
   overflow: hidden;
 }
 
-.expiry-input-group input {
+/*.expiry-input-group input {
   display: inline;
   margin-right: 20px;
   text-align: center;
