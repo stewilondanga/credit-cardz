@@ -56,12 +56,12 @@ input {
   text-align: center;
 }
 
-/*.input-group-two .input-group {
+.input-group-two .input-group {
   float: left;
   width: 42%;
 }
 
-.input-group-two input {
+/*.input-group-two input {
   width: 55%;
 }
 
