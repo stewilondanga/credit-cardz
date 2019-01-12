@@ -73,11 +73,11 @@ input {
   max-width: 22px;
 }
 
-/*.input-group.expiry {
+.input-group.expiry {
   width: 58%;
 }
 
-.input-group-two.card-number input {
+/*.input-group-two.card-number input {
   width: 80%;
 }
 
