@@ -190,12 +190,12 @@ input {
   border-bottom-right-radius: 30px;
 }
 
-/*.payment-method-logo {
+.payment-method-logo {
   max-width: 158px;
   float: right;
 }
 
-label {
+/*label {
   font-size: 14px;
   color: white;
   text-transform: uppercase;
